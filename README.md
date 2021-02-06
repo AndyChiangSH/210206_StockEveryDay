@@ -4,6 +4,8 @@
 
 > [name=AndyChiang][time=Sat, Feb 6, 2021 9:33 AM][color=#00CDAF]
 
+[![hackmd-github-sync-badge](https://hackmd.io/WaqSJuPXTqCbrnbdiZ0_fA/badge)](https://hackmd.io/WaqSJuPXTqCbrnbdiZ0_fA)
+
 ## 功能
 這是爬取 ==台灣證券交易所== 的 [個股日收盤價及月平均價](https://www.twse.com.tw/zh/page/trading/exchange/STOCK_DAY_AVG.html) 的程式。
 
