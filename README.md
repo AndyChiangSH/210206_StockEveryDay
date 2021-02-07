@@ -42,8 +42,10 @@ pip install matplotlib
 7. 電腦會出現==當月收盤價的走勢圖==，而 terminal 則會顯示==文字資料==以及==當月平均收盤價==，恭喜你成功囉!
 
 * 走勢圖：
+
 ![](https://i.imgur.com/tOdY2ct.png)
 * 文字資料：
+
 ![](https://i.imgur.com/ghfo69X.png)
 
 
@@ -52,5 +54,9 @@ pip install matplotlib
 
 ![](https://i.imgur.com/YMDLKaq.png)
 
+## 相關文章
+* [Python 靜態網頁爬蟲](/ZAdxgQ5aR6mhJ6KWEdll1g)
+
 ## 參考網址
-[[Python爬蟲教學]學會使用Selenium及BeautifulSoup套件爬取查詢式網頁](https://www.learncodewithmike.com/2020/08/python-integrate-selenium-and-beautifulsoup.html)
+* [[Python爬蟲教學]學會使用Selenium及BeautifulSoup套件爬取查詢式網頁](https://www.learncodewithmike.com/2020/08/python-integrate-selenium-and-beautifulsoup.html)
+* [Selenium 使用 CSS locator 定位 HTML element](https://jzchangmark.wordpress.com/2015/03/16/selenium-%E4%BD%BF%E7%94%A8-css-locator-%E5%AE%9A%E4%BD%8D%E5%85%83%E4%BB%B6/)
