@@ -52,8 +52,6 @@ pip install matplotlib
 ## 教學
 > 有空一定寫XD
 
-![](https://i.imgur.com/YMDLKaq.png)
-
 ## 相關文章
 * [Python 靜態網頁爬蟲](/ZAdxgQ5aR6mhJ6KWEdll1g)
 
